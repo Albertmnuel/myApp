@@ -1,0 +1,12 @@
+.navbar{
+    position:fixed;
+    top: 0;
+    left:0;
+    width:0;
+    padding: 1rem;
+}
+.navbar ul {
+  display: flex;
+  list-style: none;
+  gap: 16px;
+}
